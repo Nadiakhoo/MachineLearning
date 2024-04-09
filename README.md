@@ -1,1 +1,1 @@
-Machine Learning Assignment 1
+Machine Learning Assignments in Google Colab, using Python
